@@ -1,0 +1,3 @@
+C:/Users/RYZEN/Desktop/automation for/.tools/build-qwen-refiner-worker/CMakeFiles/flowdictate-qwen-refiner-worker.dir
+C:/Users/RYZEN/Desktop/automation for/.tools/build-qwen-refiner-worker/CMakeFiles/edit_cache.dir
+C:/Users/RYZEN/Desktop/automation for/.tools/build-qwen-refiner-worker/CMakeFiles/rebuild_cache.dir

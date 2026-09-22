@@ -1,0 +1,4 @@
+[v1]
+"cargo-audit 0.22.2 (registry+https://github.com/rust-lang/crates.io-index)" = ["cargo-audit.exe"]
+"cargo-cyclonedx 0.5.9 (registry+https://github.com/rust-lang/crates.io-index)" = ["cargo-cyclonedx.exe"]
+"cargo-deny 0.20.2 (registry+https://github.com/rust-lang/crates.io-index)" = ["cargo-deny.exe"]

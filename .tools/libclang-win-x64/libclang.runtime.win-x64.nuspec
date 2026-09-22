@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>libclang.runtime.win-x64</id>
+    <version>21.1.8</version>
+    <authors>.NET Foundation and Contributors</authors>
+    <owners>.NET Foundation and Contributors</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0 WITH LLVM-exception</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0%20WITH%20LLVM-exception</licenseUrl>
+    <projectUrl>https://github.com/dotnet/clangsharp</projectUrl>
+    <description>win x64 native library for libclang.</description>
+    <copyright>Copyright © LLVM Project</copyright>
+    <repository type="git" url="https://github.com/llvm/llvm-project" branch="llvmorg-21.1.8" />
+  </metadata>
+</package>

@@ -1,0 +1,1 @@
+fixture_id,relative_audio_path,audio_sha256,expected_transcript_path,transcript_sha256,license_spdx,source_url,source_revision,redistributable,language_mode,language_tags,duration_ms,sample_rate_hz,channels,speech_style,acoustic_condition,language_mix,accent_evidence,voice_rights,classification,review_status

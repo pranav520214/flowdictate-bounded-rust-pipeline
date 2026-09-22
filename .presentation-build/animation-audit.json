@@ -1,0 +1,1750 @@
+[
+  {
+    "slide": 1,
+    "clicks": 2,
+    "animated_objects": 12,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "flow_8",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_9",
+        "effect": "fade",
+        "delay_ms": 180
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "text_10",
+        "effect": "fade",
+        "delay_ms": 360
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "text_11",
+        "effect": "fade",
+        "delay_ms": 540
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "text_12",
+        "effect": "fade",
+        "delay_ms": 540
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "text_13",
+        "effect": "fade",
+        "delay_ms": 540
+      },
+      {
+        "beat": 2,
+        "shape": "14",
+        "name": "text_14",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "15",
+        "name": "text_15",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "16",
+        "name": "text_16",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "17",
+        "name": "text_17",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_18",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "19",
+        "name": "text_19",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "clicks": 3,
+    "animated_objects": 19,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "text_25",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "flow_26",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "commit_27",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "commit_28",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "commit_29",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "commit_30",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "commit_31",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "commit_32",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "14",
+        "name": "box_33",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "15",
+        "name": "text_34",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "16",
+        "name": "text_35",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "17",
+        "name": "text_36",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_37",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "19",
+        "name": "text_38",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "20",
+        "name": "text_39",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "21",
+        "name": "text_40",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "22",
+        "name": "text_41",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "23",
+        "name": "text_42",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "24",
+        "name": "text_43",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "clicks": 3,
+    "animated_objects": 24,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "flow_50",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_51",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_52",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "flow_53",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "text_54",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "text_55",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "flow_56",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "text_57",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "14",
+        "name": "text_58",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "15",
+        "name": "flow_59",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "16",
+        "name": "text_60",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "17",
+        "name": "text_61",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_62",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "19",
+        "name": "flow_63",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "20",
+        "name": "text_64",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "21",
+        "name": "flow_65",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "22",
+        "name": "text_66",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "23",
+        "name": "flow_67",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "24",
+        "name": "text_68",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "25",
+        "name": "flow_69",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "26",
+        "name": "flow_70",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "27",
+        "name": "flow_71",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "28",
+        "name": "decision_72",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "29",
+        "name": "text_73",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "clicks": 6,
+    "animated_objects": 34,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "flow_81",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_82",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_83",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "text_84",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "flow_85",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "12",
+        "name": "flow_86",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "13",
+        "name": "text_87",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "14",
+        "name": "text_88",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "15",
+        "name": "text_89",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "16",
+        "name": "flow_90",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "17",
+        "name": "flow_91",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "18",
+        "name": "text_92",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "19",
+        "name": "text_93",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "20",
+        "name": "text_94",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "21",
+        "name": "flow_95",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "22",
+        "name": "flow_96",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "23",
+        "name": "text_97",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "24",
+        "name": "text_98",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "25",
+        "name": "text_99",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "26",
+        "name": "flow_100",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "27",
+        "name": "flow_101",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "28",
+        "name": "text_102",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "29",
+        "name": "text_103",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "30",
+        "name": "text_104",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "31",
+        "name": "flow_105",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "32",
+        "name": "flow_106",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "33",
+        "name": "text_107",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "34",
+        "name": "text_108",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "35",
+        "name": "text_109",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "36",
+        "name": "flow_110",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "37",
+        "name": "flow_111",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "38",
+        "name": "flow_112",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "39",
+        "name": "text_113",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "40",
+        "name": "text_114",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "clicks": 6,
+    "animated_objects": 25,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_121",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_122",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "flow_123",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "10",
+        "name": "box_124",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "11",
+        "name": "text_125",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "12",
+        "name": "text_126",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "13",
+        "name": "text_127",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "14",
+        "name": "flow_128",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "15",
+        "name": "box_129",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "16",
+        "name": "text_130",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "17",
+        "name": "text_131",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "18",
+        "name": "flow_132",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "19",
+        "name": "flow_133",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "20",
+        "name": "flow_134",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "21",
+        "name": "flow_135",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "22",
+        "name": "text_136",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "23",
+        "name": "text_137",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "24",
+        "name": "box_138",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "25",
+        "name": "text_139",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 5,
+        "shape": "26",
+        "name": "text_140",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "27",
+        "name": "text_141",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "28",
+        "name": "flow_142",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "29",
+        "name": "text_143",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "30",
+        "name": "text_144",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 6,
+        "shape": "31",
+        "name": "text_145",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "clicks": 4,
+    "animated_objects": 24,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "flow_152",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_153",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_154",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "text_155",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "flow_156",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "text_157",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "text_158",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "14",
+        "name": "text_159",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "15",
+        "name": "flow_160",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "16",
+        "name": "text_161",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "17",
+        "name": "text_162",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_163",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "19",
+        "name": "flow_164",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "20",
+        "name": "text_165",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "21",
+        "name": "text_166",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "22",
+        "name": "text_167",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "23",
+        "name": "flow_168",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "24",
+        "name": "text_169",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "25",
+        "name": "text_170",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "26",
+        "name": "text_171",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "27",
+        "name": "text_172",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "28",
+        "name": "text_173",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "29",
+        "name": "text_174",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "30",
+        "name": "text_175",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "clicks": 4,
+    "animated_objects": 10,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "text_181",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_182",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_183",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "9",
+        "name": "text_184",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "10",
+        "name": "text_185",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "11",
+        "name": "text_186",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "12",
+        "name": "text_187",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "13",
+        "name": "text_188",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "14",
+        "name": "flow_189",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "15",
+        "name": "text_190",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "clicks": 4,
+    "animated_objects": 17,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_197",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_198",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_199",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "10",
+        "name": "text_200",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "11",
+        "name": "text_201",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "12",
+        "name": "text_202",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "13",
+        "name": "text_203",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "14",
+        "name": "text_204",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "15",
+        "name": "text_205",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "16",
+        "name": "flow_206",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "17",
+        "name": "text_207",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "18",
+        "name": "text_208",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "19",
+        "name": "text_209",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "20",
+        "name": "text_210",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "21",
+        "name": "text_211",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "22",
+        "name": "text_212",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "23",
+        "name": "text_213",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "clicks": 4,
+    "animated_objects": 27,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "text_219",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_220",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_221",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_222",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "text_223",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "text_224",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "text_225",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "text_226",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "14",
+        "name": "text_227",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "15",
+        "name": "text_228",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "16",
+        "name": "flow_229",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "17",
+        "name": "text_230",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_231",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "19",
+        "name": "text_232",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "20",
+        "name": "text_233",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "21",
+        "name": "box_234",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "22",
+        "name": "flow_235",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "23",
+        "name": "flow_236",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "24",
+        "name": "text_237",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "25",
+        "name": "text_238",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "26",
+        "name": "text_239",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "27",
+        "name": "text_240",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "28",
+        "name": "text_241",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "29",
+        "name": "text_242",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "30",
+        "name": "text_243",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "31",
+        "name": "text_244",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "32",
+        "name": "text_245",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "clicks": 4,
+    "animated_objects": 15,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "text_252",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_253",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "8",
+        "name": "text_254",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "9",
+        "name": "text_255",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "10",
+        "name": "text_256",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "11",
+        "name": "text_257",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "12",
+        "name": "text_258",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "28",
+        "name": "table_row_0",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 4,
+        "shape": "29",
+        "name": "table_row_1",
+        "effect": "fade",
+        "delay_ms": 160
+      },
+      {
+        "beat": 4,
+        "shape": "30",
+        "name": "table_row_2",
+        "effect": "fade",
+        "delay_ms": 320
+      },
+      {
+        "beat": 4,
+        "shape": "31",
+        "name": "table_row_3",
+        "effect": "fade",
+        "delay_ms": 480
+      },
+      {
+        "beat": 4,
+        "shape": "32",
+        "name": "table_row_4",
+        "effect": "fade",
+        "delay_ms": 640
+      },
+      {
+        "beat": 4,
+        "shape": "33",
+        "name": "table_row_5",
+        "effect": "fade",
+        "delay_ms": 800
+      },
+      {
+        "beat": 4,
+        "shape": "34",
+        "name": "table_row_6",
+        "effect": "fade",
+        "delay_ms": 960
+      },
+      {
+        "beat": 4,
+        "shape": "14",
+        "name": "text_259",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "clicks": 3,
+    "animated_objects": 13,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "20",
+        "name": "table_row_0",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "21",
+        "name": "table_row_1",
+        "effect": "fade",
+        "delay_ms": 160
+      },
+      {
+        "beat": 1,
+        "shape": "22",
+        "name": "table_row_2",
+        "effect": "fade",
+        "delay_ms": 320
+      },
+      {
+        "beat": 1,
+        "shape": "23",
+        "name": "table_row_3",
+        "effect": "fade",
+        "delay_ms": 480
+      },
+      {
+        "beat": 1,
+        "shape": "24",
+        "name": "table_row_4",
+        "effect": "fade",
+        "delay_ms": 640
+      },
+      {
+        "beat": 1,
+        "shape": "25",
+        "name": "table_row_5",
+        "effect": "fade",
+        "delay_ms": 800
+      },
+      {
+        "beat": 1,
+        "shape": "26",
+        "name": "table_row_6",
+        "effect": "fade",
+        "delay_ms": 960
+      },
+      {
+        "beat": 1,
+        "shape": "27",
+        "name": "table_row_7",
+        "effect": "fade",
+        "delay_ms": 1120
+      },
+      {
+        "beat": 1,
+        "shape": "28",
+        "name": "table_row_8",
+        "effect": "fade",
+        "delay_ms": 1280
+      },
+      {
+        "beat": 2,
+        "shape": "8",
+        "name": "text_266",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "9",
+        "name": "text_267",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "10",
+        "name": "text_268",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "11",
+        "name": "text_269",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "clicks": 3,
+    "animated_objects": 16,
+    "transition": "Fade",
+    "effects": [
+      {
+        "beat": 1,
+        "shape": "6",
+        "name": "flow_276",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "7",
+        "name": "text_277",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "8",
+        "name": "text_278",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "9",
+        "name": "text_279",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "10",
+        "name": "flow_280",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "11",
+        "name": "text_281",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "12",
+        "name": "text_282",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "13",
+        "name": "text_283",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "14",
+        "name": "flow_284",
+        "effect": "wipe(right)",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "15",
+        "name": "text_285",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "16",
+        "name": "text_286",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 1,
+        "shape": "17",
+        "name": "text_287",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "18",
+        "name": "text_288",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 2,
+        "shape": "19",
+        "name": "text_289",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "20",
+        "name": "text_290",
+        "effect": "fade",
+        "delay_ms": 0
+      },
+      {
+        "beat": 3,
+        "shape": "21",
+        "name": "text_291",
+        "effect": "fade",
+        "delay_ms": 0
+      }
+    ]
+  }
+]

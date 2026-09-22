@@ -1,0 +1,13 @@
+[package]
+name = "flowdictate-capture-probe"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+publish = false
+
+[dependencies]
+flowdictate-audio = { version = "=0.1.0", path = "../../crates/flowdictate-audio" }
+
+[lints]
+workspace = true
