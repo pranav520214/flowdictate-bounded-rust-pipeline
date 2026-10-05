@@ -1,0 +1,50 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "serialNumber": "urn:uuid:b53f683f-917f-499f-9a9e-79ff51249202",
+  "metadata": {
+    "timestamp": "2026-09-04T11:07:13.969578300Z",
+    "tools": [
+      {
+        "vendor": "CycloneDX",
+        "name": "cargo-cyclonedx",
+        "version": "0.5.9"
+      }
+    ],
+    "component": {
+      "type": "library",
+      "bom-ref": "flowdictate:workspace/crates/flowdictate-refine#0.1.0",
+      "name": "flowdictate-refine",
+      "version": "0.1.0",
+      "scope": "required",
+      "licenses": [
+        {
+          "expression": "MIT OR Apache-2.0"
+        }
+      ],
+      "purl": "pkg:cargo/flowdictate-refine@0.1.0?download_url=file://.",
+      "components": [
+        {
+          "type": "library",
+          "bom-ref": "flowdictate:workspace/crates/flowdictate-refine#0.1.0 bin-target-0",
+          "name": "flowdictate_refine",
+          "version": "0.1.0",
+          "purl": "pkg:cargo/flowdictate-refine@0.1.0?download_url=file://.#src/lib.rs"
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "cdx:rustc:sbom:target:triple",
+        "value": "x86_64-pc-windows-msvc"
+      }
+    ]
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "flowdictate:workspace/crates/flowdictate-refine#0.1.0"
+    }
+  ]
+}

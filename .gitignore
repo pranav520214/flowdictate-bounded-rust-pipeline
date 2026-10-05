@@ -1,0 +1,11 @@
+/target/
+/.tools/
+/.presentation-build/
+/output/
+/models/
+*.csv
+outreach*
+researcher*
+.env
+.env.*
+!.env.example
